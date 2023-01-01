@@ -2,7 +2,7 @@
 
 ## About
 
-Benchmark how fast can you system create (and delete) files
+Benchmark how fast can your system create (and delete) files
 
 ## FaQ
 
